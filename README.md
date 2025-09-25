@@ -1,4 +1,4 @@
-#Halo Perkenalkan
+#Halo Semua Perkenalkan
 ## Nama Saya Dina Suci Inayatus Saniah
 
 - 🎓 Saya adalah mahasiswa baru di **Universitas Jenderal Soedirman**.
